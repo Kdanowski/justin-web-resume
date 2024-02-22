@@ -12,7 +12,9 @@ header {
 }
 
 main {
+    font-family: "Comic Sans MS";
     padding: 20px;
+    text-align: center;
 }
 
 footer {
