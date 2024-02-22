@@ -13,13 +13,8 @@ header {
 
 main {
     font-family: "Comic Sans MS";
-    padding: 20px;
     text-align: center;
-}
-
-embed {
-    width: 90%;
-    height: 700px;
+    font-size: 200px;
 }
 
 footer {
